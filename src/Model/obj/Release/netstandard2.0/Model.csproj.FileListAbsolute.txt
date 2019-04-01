@@ -1,0 +1,9 @@
+/Users/yugo/node_workspace/NoF/src/Model/bin/Release/netstandard2.0/model.deps.json
+/Users/yugo/node_workspace/NoF/src/Model/bin/Release/netstandard2.0/model.dll
+/Users/yugo/node_workspace/NoF/src/Model/bin/Release/netstandard2.0/model.pdb
+/Users/yugo/node_workspace/NoF/src/Model/obj/Release/netstandard2.0/Model.csprojAssemblyReference.cache
+/Users/yugo/node_workspace/NoF/src/Model/obj/Release/netstandard2.0/Model.csproj.CoreCompileInputs.cache
+/Users/yugo/node_workspace/NoF/src/Model/obj/Release/netstandard2.0/Model.AssemblyInfoInputs.cache
+/Users/yugo/node_workspace/NoF/src/Model/obj/Release/netstandard2.0/Model.AssemblyInfo.cs
+/Users/yugo/node_workspace/NoF/src/Model/obj/Release/netstandard2.0/model.dll
+/Users/yugo/node_workspace/NoF/src/Model/obj/Release/netstandard2.0/model.pdb

@@ -1,0 +1,11 @@
+/Users/yugo/node_workspace/NoF/src/Model/bin/Debug/netcoreapp2.1/model.deps.json
+/Users/yugo/node_workspace/NoF/src/Model/bin/Debug/netcoreapp2.1/model.runtimeconfig.json
+/Users/yugo/node_workspace/NoF/src/Model/bin/Debug/netcoreapp2.1/model.runtimeconfig.dev.json
+/Users/yugo/node_workspace/NoF/src/Model/bin/Debug/netcoreapp2.1/model.dll
+/Users/yugo/node_workspace/NoF/src/Model/bin/Debug/netcoreapp2.1/model.pdb
+/Users/yugo/node_workspace/NoF/src/Model/obj/Debug/netcoreapp2.1/Model.csprojAssemblyReference.cache
+/Users/yugo/node_workspace/NoF/src/Model/obj/Debug/netcoreapp2.1/Model.csproj.CoreCompileInputs.cache
+/Users/yugo/node_workspace/NoF/src/Model/obj/Debug/netcoreapp2.1/Model.AssemblyInfoInputs.cache
+/Users/yugo/node_workspace/NoF/src/Model/obj/Debug/netcoreapp2.1/Model.AssemblyInfo.cs
+/Users/yugo/node_workspace/NoF/src/Model/obj/Debug/netcoreapp2.1/model.dll
+/Users/yugo/node_workspace/NoF/src/Model/obj/Debug/netcoreapp2.1/model.pdb

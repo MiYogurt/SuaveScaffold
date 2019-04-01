@@ -1,0 +1,13 @@
+/Users/yugo/node_workspace/NoF/src/Web/bin/Release/netcoreapp2.1/Web.deps.json
+/Users/yugo/node_workspace/NoF/src/Web/bin/Release/netcoreapp2.1/Web.runtimeconfig.json
+/Users/yugo/node_workspace/NoF/src/Web/bin/Release/netcoreapp2.1/Web.runtimeconfig.dev.json
+/Users/yugo/node_workspace/NoF/src/Web/bin/Release/netcoreapp2.1/Web.dll
+/Users/yugo/node_workspace/NoF/src/Web/bin/Release/netcoreapp2.1/Web.pdb
+/Users/yugo/node_workspace/NoF/src/Web/bin/Release/netcoreapp2.1/model.dll
+/Users/yugo/node_workspace/NoF/src/Web/bin/Release/netcoreapp2.1/model.pdb
+/Users/yugo/node_workspace/NoF/src/Web/obj/Release/netcoreapp2.1/Web.fsprojAssemblyReference.cache
+/Users/yugo/node_workspace/NoF/src/Web/obj/Release/netcoreapp2.1/Web.AssemblyInfoInputs.cache
+/Users/yugo/node_workspace/NoF/src/Web/obj/Release/netcoreapp2.1/Web.AssemblyInfo.fs
+/Users/yugo/node_workspace/NoF/src/Web/obj/Release/netcoreapp2.1/Web.fsproj.CopyComplete
+/Users/yugo/node_workspace/NoF/src/Web/obj/Release/netcoreapp2.1/Web.dll
+/Users/yugo/node_workspace/NoF/src/Web/obj/Release/netcoreapp2.1/Web.pdb
